@@ -34,6 +34,6 @@
     />
     <img
         width="49%"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=hellsnakes&hide=css&layout=compact&theme=radical"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=hellsnakes&layout=compact&theme=radical"
     />
 </p>
