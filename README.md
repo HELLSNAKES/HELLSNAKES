@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm HELLSNAKE</h1>
+<p align = "left"> <img src = "https://komarev.com/ghpvc/?username=hellsnakes&label=Profile%20views&color = 0e75b6 & style = flat "alt =" hellsnakes "/> </p>
 <div align="center">
   <img align="center" width="70%" alt="" src="https://media.giphy.com/media/T9dhZ3HWJWkE2T7yOU/giphy.gif"/>
 </div>
