@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HELLSNAKE</h1>
 <p align = "center"> <img src = "https://komarev.com/ghpvc/?username=hellsnakes&label=Profile%20views&color = 0e75b6 & style = flat "alt =" hellsnakes "/> </p>
 <div align="center">
-  <img align="center" width="70%" alt="" src="https://i.imgur.com/m1GwEkm.png"/>
+  <img align="center" width="75%" alt="" src="https://i.imgur.com/m1GwEkm.png"/>
 </div>
 
 - 🔭 I’m currently working on [hellsnakebot](https://github.com/HELLSNAKES/hellsnakebot)
