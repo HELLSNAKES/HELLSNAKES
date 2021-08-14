@@ -10,7 +10,9 @@
 
 - 📫 How to reach me **hellsnakess@hotmail.com**
 
-- ⚡ Fun fact **'-'**
+- 🤝 I’m looking for help with [hellsnakebot](https://github.com/HELLSNAKES/hellsnakebot)
+
+- ⚡ Fun fact **I like alime girls '-'))**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
