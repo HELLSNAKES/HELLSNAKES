@@ -2,7 +2,7 @@
 <hr>
 <p align = "center"> <img src = "https://komarev.com/ghpvc/?username=hellsnakes&label=Profile%20views&color = 0e75b6 & style = flat "alt =" hellsnakes "/> </p>
 <div align="center">
-  <img align="center" width="75%" alt="" src="https://i.imgur.com/m1GwEkm.png"/>
+  <img align="center" width="75%" alt="" src="https://i.imgur.com/gEksDJa.png"/>
 </div>
 <hr>
 
