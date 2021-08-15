@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm HELLSNAKE</h1>
+<hr>
 <p align = "center"> <img src = "https://komarev.com/ghpvc/?username=hellsnakes&label=Profile%20views&color = 0e75b6 & style = flat "alt =" hellsnakes "/> </p>
 <div align="center">
   <img align="center" width="75%" alt="" src="https://i.imgur.com/m1GwEkm.png"/>
 </div>
+<hr>
 
 - 🔭 I’m currently working on [hellsnakebot](https://github.com/HELLSNAKES/hellsnakebot)
 
@@ -14,6 +16,7 @@
 
 - ⚡ Fun fact **I like alime girls '-'))**
 
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/hellsnakes" target="blank"><img align="center" src="https://raw.githubusercontent.com/hellsnakes/hellsnakes/main/img/codepen.png" alt="hellsnakes" height="30" width="40" /></a>
@@ -22,6 +25,7 @@
 <a href="https://instagram.com/hellsnake0w0" target="blank"><img align="center" src="https://raw.githubusercontent.com/hellsnakes/hellsnakes/main/img/instagram.png" alt="hellsnake0w0" height="30" width="40" /></a>
 <a href="https://discord.com/users/628633598001414165" target="blank"><img align="center" src="https://raw.githubusercontent.com/hellsnakes/hellsnakes/main/img/discord.png" alt="628633598001414165" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCsPcy_S_k7_BNSCwDGjtqC" target="blank"><img align="center" src="https://raw.githubusercontent.com/hellsnakes/hellsnakes/main/img/youtube.png" alt="HELLSNAKE" height="30" width="40" /></a> 
+<hr>
 </p>
 <p align="center">
     <img
