@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm HELLSNAKE</h1>
+<h1 align="center">Hi '-' I'm HELLSNAKE ! <img src="https://raw.githubusercontent.com/hellsnakes/hellsnakes/main/img/chika.gif" width="50"></h1>
 <hr>
 <p align = "center"> <img src = "https://komarev.com/ghpvc/?username=hellsnakes&label=Profile%20views&color = 0e75b6 & style = flat "alt =" hellsnakes "/> </p>
 <div align="center">
