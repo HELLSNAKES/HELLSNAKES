@@ -41,3 +41,10 @@
         src="https://github-readme-stats.vercel.app/api/top-langs?username=hellsnakes&layout=compact&theme=radical"
     />
 </p>
+<hr>
+<h1>Public Projects</h1> 
+  
+  | Project           | URL                                      | Description                                         |
+  |:-----------------:|:----------------------------------------:|:---------------------------------------------------:|
+  | Hellsnake Bot     |https://github.com/HELLSNAKES/hellsnakebot| About A fully customizable bot built with discord.js|
+<hr>
