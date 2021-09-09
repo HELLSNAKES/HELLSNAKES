@@ -17,6 +17,22 @@
 - ⚡ Fun fact **I love to listening to music and code '-'))**
 
 <hr>
+
+### Language:
+![JavaScript](https://img.shields.io/badge/code-JavaScript-informational?style=flat&logo=javascript&logoColor=white)
+
+### Library:
+![discord.js](https://img.shields.io/badge/library-discord.js-informational?style=flat&logo=npm&logoColor=white)
+
+### Database:
+![Mongo DB](https://img.shields.io/badge/database-mongodb-informational?style=flat&logo=mongodb&logoColor=white) 
+![json](https://img.shields.io/badge/database-json-informational?style=flat&logo=json&logoColor=white) 
+
+### OS:
+![Linux](https://img.shields.io/badge/OS-linux-informational?style=flat&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white)
+
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/hellsnakes" target="blank"><img align="center" src="https://raw.githubusercontent.com/hellsnakes/hellsnakes/main/img/codepen.png" alt="hellsnakes" height="30" width="40" /></a>
