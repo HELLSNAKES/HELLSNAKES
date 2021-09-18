@@ -46,7 +46,7 @@
 <p align="center">
     <img
         width="49%"
-        src="https://github-readme-stats.vercel.app/api?username=hellsnakes&theme=radical"
+        src="https://github-readme-stats.vercel.app/api?username=hellsnakes&theme=radical&include_all_commits=true&count_private=true"
     />
     <img
         width="49%"
