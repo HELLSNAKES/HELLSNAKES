@@ -23,6 +23,8 @@
 
 ### Library:
 ![discord.js](https://img.shields.io/badge/library-discord.js-informational?style=flat&logo=npm&logoColor=white)
+![express](https://img.shields.io/badge/library-express-informational?style=flat&logo=npm&logoColor=white)
+![socket.io](https://img.shields.io/badge/library-socket.io-informational?style=flat&logo=npm&logoColor=white)
 
 ### Database:
 ![Mongo DB](https://img.shields.io/badge/database-mongodb-informational?style=flat&logo=mongodb&logoColor=white) 
