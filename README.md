@@ -6,13 +6,13 @@
 </div>
 <hr>
 
-- 🔭 I’m currently working on [hellsnakebot](https://github.com/HELLSNAKES/hellsnakebot)
+- 🔭 I’m currently working on [hellsnakebot](https://github.com/HELLSNAKES/hellsnakebot) - [Music-Slash-Bot](https://github.com/HELLSNAKES/Music-Slash-Bot) 
 
 - 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **hellsnakess@hotmail.com**
 
-- 🤝 I’m looking for help with [hellsnakebot](https://github.com/HELLSNAKES/hellsnakebot)
+- 🤝 I’m looking for help with [hellsnakebot](https://github.com/HELLSNAKES/hellsnakebot) - [Music-Slash-Bot](https://github.com/HELLSNAKES/Music-Slash-Bot) 
 
 - ⚡ Fun fact **I love to listening to music and code '-'))**
 
