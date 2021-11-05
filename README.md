@@ -38,7 +38,8 @@
 ![Linux](https://img.shields.io/badge/OS-linux-informational?style=flat&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white)
 
-<hr>
+<a href="https://www.facebook.com/hellsnake98/"><img src="https://raw.githubusercontent.com/hellsnakes/hellsnakes/main/img/a.gif"></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/hellsnakes" target="blank"><img align="center" src="https://raw.githubusercontent.com/hellsnakes/hellsnakes/main/img/codepen.png" alt="hellsnakes" height="30" width="40" /></a>
