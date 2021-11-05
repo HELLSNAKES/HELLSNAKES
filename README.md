@@ -1,10 +1,12 @@
 <h1 align="center">Hi , I'm HELLSNAKE  <img src="https://raw.githubusercontent.com/hellsnakes/hellsnakes/main/img/chika.gif" width="50"></h1>
-<hr>
+
+<a href="https://www.facebook.com/hellsnake98/"><img src="https://raw.githubusercontent.com/hellsnakes/hellsnakes/main/img/a.gif"></a>
+
 <p align = "center"> <img src = "https://komarev.com/ghpvc/?username=hellsnakes&label=Profile%20views&color = 0e75b6 & style = flat "alt ="hellsnakes"/> </p>
 <div align="center">
   <img align="center" width="100%" alt="" src="https://raw.githubusercontent.com/hellsnakes/hellsnakes/main/img/kurumi.jpg"/>
 </div>
-<hr>
+<a href="https://www.facebook.com/hellsnake98/"><img src=""></a>
 
 - 🔭 I’m currently working on [hellsnakebot](https://github.com/HELLSNAKES/hellsnakebot) - [Music-Slash-Bot](https://github.com/HELLSNAKES/Music-Slash-Bot) 
 
@@ -16,7 +18,7 @@
 
 - ⚡ Fun fact **I love to listening to music and code '-'))**
 
-<hr>
+<a href="https://www.facebook.com/hellsnake98/"><img src="https://raw.githubusercontent.com/hellsnakes/hellsnakes/main/img/a.gif"></a>
 
 ### Language:
 ![JavaScript](https://img.shields.io/badge/code-JavaScript-informational?style=flat&logo=javascript&logoColor=white)
@@ -43,7 +45,9 @@
 <a href="https://instagram.com/hellsnake0w0" target="blank"><img align="center" src="https://raw.githubusercontent.com/hellsnakes/hellsnakes/main/img/instagram.png" alt="hellsnake0w0" height="30" width="40" /></a>
 <a href="https://discord.com/users/628633598001414165" target="blank"><img align="center" src="https://raw.githubusercontent.com/hellsnakes/hellsnakes/main/img/discord.png" alt="628633598001414165" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCsPcy_S_k7_BNSCwDGjtqC" target="blank"><img align="center" src="https://raw.githubusercontent.com/hellsnakes/hellsnakes/main/img/youtube.png" alt="HELLSNAKE" height="30" width="40" /></a> 
-<hr>
+
+<a href="https://www.facebook.com/hellsnake98/"><img src="https://raw.githubusercontent.com/hellsnakes/hellsnakes/main/img/a.gif"></a>
+
 </p>
 <p align="center">
     <img
@@ -59,4 +63,5 @@
         src="https://github-readme-stats.vercel.app/api/top-langs?username=hellsnakes&layout=compact&theme=radical"
     />
 </p>
-<hr>
+
+<a href="https://www.facebook.com/hellsnake98/"><img src="https://raw.githubusercontent.com/hellsnakes/hellsnakes/main/img/a.gif"></a>
