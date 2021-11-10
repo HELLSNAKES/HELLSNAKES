@@ -24,6 +24,7 @@
 
 ### Language:
 ![JavaScript](https://img.shields.io/badge/code-JavaScript-informational?style=flat&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/code-TypeScript-informational?style=flat&logo=typescript&logoColor=white)
 
 ### Library:
 ![discord.js](https://img.shields.io/badge/library-discord.js-informational?style=flat&logo=npm&logoColor=white)
