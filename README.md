@@ -24,20 +24,28 @@
 
 ### Language:
 ![JavaScript](https://img.shields.io/badge/code-JavaScript-informational?style=flat&logo=javascript&logoColor=white)
+
 ![TypeScript](https://img.shields.io/badge/code-TypeScript-informational?style=flat&logo=typescript&logoColor=white)
 
 ### Library:
 ![discord.js](https://img.shields.io/badge/library-discord.js-informational?style=flat&logo=npm&logoColor=white)
+
 ![express](https://img.shields.io/badge/library-express-informational?style=flat&logo=npm&logoColor=white)
+
 ![socket.io](https://img.shields.io/badge/library-socket.io-informational?style=flat&logo=npm&logoColor=white)
 
 ### Database:
 ![Mongo DB](https://img.shields.io/badge/database-mongodb-informational?style=flat&logo=mongodb&logoColor=white) 
+
 ![json](https://img.shields.io/badge/database-json-informational?style=flat&logo=json&logoColor=white) 
 
 ### OS:
 ![Linux](https://img.shields.io/badge/OS-linux-informational?style=flat&logo=linux&logoColor=white)
+
 ![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white)
+
+![Android](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=android&logoColor=white)
+
 
 <a href="https://www.facebook.com/hellsnake98/"><img src="https://raw.githubusercontent.com/hellsnakes/hellsnakes/main/img/a.gif"></a>
 
