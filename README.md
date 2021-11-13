@@ -4,7 +4,7 @@
 
 <p align = "center"> <img src = "https://komarev.com/ghpvc/?username=hellsnakes&label=Profile%20views&color = 0e75b6 & style = flat "alt ="hellsnakes"/> </p>
 <div align="center">
-  <img align="center" width="100%" alt="" src="https://raw.githubusercontent.com/hellsnakes/hellsnakes/main/img/kurumi.jpg"/>
+  <img align="center" width="100%" alt="" src="https://raw.githubusercontent.com/hellsnakes/hellsnakes/main/img/kurumi2.png"/>
 </div>
 
 <a href="https://www.facebook.com/hellsnake98/"><img src="https://raw.githubusercontent.com/hellsnakes/hellsnakes/main/img/a.gif"></a>
