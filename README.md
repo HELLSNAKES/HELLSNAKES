@@ -7,6 +7,11 @@
   <img align="center" width="100%" alt="" src="https://raw.githubusercontent.com/hellsnakes/hellsnakes/main/img/kurumi2.png"/>
 </div>
 
+<details>
+<summary>Spoiler</summary>
+<img src="https://raw.githubusercontent.com/hellsnakes/hellsnakes/main/img/kurumi.jpg" width= 100%">
+
+</details>
 <a href="https://www.facebook.com/hellsnake98/"><img src="https://raw.githubusercontent.com/hellsnakes/hellsnakes/main/img/a.gif"></a>
 
 
