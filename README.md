@@ -70,12 +70,12 @@
         src="https://github-readme-stats.vercel.app/api?username=hellsnakes&theme=radical&include_all_commits=true&count_private=true"
     />
     <img
-        width="49%"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=hellsnakes&theme=radical"
+        width="39%"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=hellsnakes&layout=compact&theme=radical&hide=batchfile,php,shell"
     />
     <img
         width="49%"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=hellsnakes&layout=compact&theme=radical&hide=batchfile,php,shell"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=hellsnakes&repo=Music-Slash-Bot&theme=radical"
     />
 </p>
 
