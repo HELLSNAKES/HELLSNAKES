@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 📫 How to reach me **hellsnakess@hotmail.com**
+- 📫 How to reach me **hellsnakess@hotmail.comhellsnake@proton.me**
 
 - 🤝 I’m looking for help with [hellsnakebot](https://github.com/HELLSNAKES/hellsnakebot) - [Music-Slash-Bot](https://github.com/HELLSNAKES/Music-Slash-Bot) 
 
