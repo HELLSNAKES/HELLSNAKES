@@ -11,10 +11,7 @@
   <img align="center" width="100%" alt="" src="https://hellsnake.pages.dev/_astro/bg.DArGc0D5_Z1HBqqq.webp"/>
 </div>
 
-<details>
 
-
-</details>
 <a href="https://www.facebook.com/hellsnake98/"><img src="https://raw.githubusercontent.com/hellsnakes/hellsnakes/main/img/a.gif"></a>
 
 
