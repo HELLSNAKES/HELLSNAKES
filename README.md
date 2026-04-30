@@ -48,18 +48,18 @@
 
 <a href="https://www.facebook.com/hellsnake98/"><img src="https://raw.githubusercontent.com/hellsnakes/hellsnakes/main/img/a.gif"></a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/hellsnakes" target="blank"><img align="center" src="https://raw.githubusercontent.com/hellsnakes/hellsnakes/main/img/codepen.png" alt="hellsnakes" height="30" width="40" /></a>
-<a href="https://twitter.com/hellsnake98" target="blank"><img align="center" src="https://raw.githubusercontent.com/hellsnakes/hellsnakes/main/img/twitter.png" alt="hellsnake98" height="30" width="40" /></a>
-<a href="https://fb.com/hellsnake98" target="blank"><img align="center" src="https://raw.githubusercontent.com/hellsnakes/hellsnakes/main/img/facebook.png" alt="hellsnake98" height="30" width="40" /></a>
-<a href="https://instagram.com/hellsnake0w0" target="blank"><img align="center" src="https://raw.githubusercontent.com/hellsnakes/hellsnakes/main/img/instagram.png" alt="hellsnake0w0" height="30" width="40" /></a>
-<a href="https://discord.com/users/628633598001414165" target="blank"><img align="center" src="https://raw.githubusercontent.com/hellsnakes/hellsnakes/main/img/discord.png" alt="628633598001414165" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCsPcy_S_k7_BNSCwDGjtqC" target="blank"><img align="center" src="https://raw.githubusercontent.com/hellsnakes/hellsnakes/main/img/youtube.png" alt="HELLSNAKE" height="30" width="40" /></a> 
+<h3 align="center">Connect with me</h3>
 
-<a href="https://www.facebook.com/hellsnake98/"><img src="https://raw.githubusercontent.com/hellsnakes/hellsnakes/main/img/a.gif"></a>
-
-</p>
+<div align="center">
+<table><tr>
+  <td><a href="https://codepen.io/hellsnakes" target="_blank"><img src="https://raw.githubusercontent.com/hellsnakes/hellsnakes/main/img/codepen.png" alt="CodePen" height="30" width="40" /></a></td>
+  <td><a href="https://twitter.com/hellsnake98" target="_blank"><img src="https://raw.githubusercontent.com/hellsnakes/hellsnakes/main/img/twitter.png" alt="Twitter" height="30" width="40" /></a></td>
+  <td><a href="https://fb.com/hellsnake98" target="_blank"><img src="https://raw.githubusercontent.com/hellsnakes/hellsnakes/main/img/facebook.png" alt="Facebook" height="30" width="40" /></a></td>
+  <td><a href="https://instagram.com/hellsnake0w0" target="_blank"><img src="https://raw.githubusercontent.com/hellsnakes/hellsnakes/main/img/instagram.png" alt="Instagram" height="30" width="40" /></a></td>
+  <td><a href="https://discord.com/users/628633598001414165" target="_blank"><img src="https://raw.githubusercontent.com/hellsnakes/hellsnakes/main/img/discord.png" alt="Discord" height="30" width="40" /></a></td>
+  <td><a href="https://www.youtube.com/channel/UCsPcy_S_k7_BNSCwDGjtqC" target="_blank"><img src="https://raw.githubusercontent.com/hellsnakes/hellsnakes/main/img/youtube.png" alt="YouTube" height="30" width="40" /></a></td>
+</tr></table>
+</div>
 <p align="center">
     <img
         width="49%"
