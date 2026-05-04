@@ -59,7 +59,7 @@ I'm passionate about building **Discord bots**, **web applications**, and **real
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="32%" src="https://github-readme-stats.vercel.app/api?username=hellsnakes&theme=radical&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats"/>
+  <img width="32%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hellsnakes&theme=radical&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats"/>
   <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hellsnakes&layout=compact&theme=radical&hide=batchfile,php,shell" alt="Top Languages"/>
   <img width="32%" src="https://streak-stats.demolab.com?user=hellsnakes&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
