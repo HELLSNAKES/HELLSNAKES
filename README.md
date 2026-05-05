@@ -52,7 +52,7 @@ I'm passionate about building **Discord bots**, **web applications**, and **real
 
 | | |
 |:-:|:-:|
-| <a href="https://github.com/HELLSNAKES/Music-Slash-Bot"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=hellsnakes&repo=Music-Slash-Bot&theme=radical&show_owner=true" alt="Music-Slash-Bot"/></a> | <a href="https://github.com/HELLSNAKES/hellsnakebot"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=hellsnakes&repo=hellsnakebot&theme=radical&show_owner=true" alt="hellsnakebot"/></a> |
+| <a href="https://github.com/HELLSNAKES/Music-Slash-Bot"><img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hellsnakes&repo=Music-Slash-Bot&theme=radical&show_owner=true" alt="Music-Slash-Bot"/></a> | <a href="https://github.com/HELLSNAKES/hellsnakebot"><img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hellsnakes&repo=hellsnakebot&theme=radical&show_owner=true" alt="hellsnakebot"/></a> |
 
 ---
 
