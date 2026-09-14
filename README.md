@@ -5,7 +5,7 @@
   
   <img src="https://komarev.com/ghpvc/?username=hellsnakes&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
   
-  <img width="100%" alt="Banner" src="https://raw.githubusercontent.com/HELLSNAKES/HELLSNAKES/main/img/banner.webp"/>
+  <img width="100%" alt="Banner" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HELLSNAKE&fontSize=70"/>
 </div>
 
 ---
@@ -55,12 +55,12 @@ I'm passionate about building **Discord bots**, **web applications**, and **real
     <tr>
       <td align="center" width="50%">
         <a href="https://github.com/HELLSNAKES/Music-Slash-Bot">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=HELLSNAKES&repo=Music-Slash-Bot&theme=radical&show_owner=true" alt="Music-Slash-Bot"/>
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=HELLSNAKES&repo=Music-Slash-Bot&theme=radical&show_owner=true" alt="Music-Slash-Bot"/>
         </a>
       </td>
       <td align="center" width="50%">
         <a href="https://github.com/HELLSNAKES/hellsnakebot">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=HELLSNAKES&repo=hellsnakebot&theme=radical&show_owner=true" alt="hellsnakebot"/>
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=HELLSNAKES&repo=hellsnakebot&theme=radical&show_owner=true" alt="hellsnakebot"/>
         </a>
       </td>
     </tr>
@@ -72,8 +72,8 @@ I'm passionate about building **Discord bots**, **web applications**, and **real
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="32%" src="https://github-readme-stats.vercel.app/api?username=HELLSNAKES&theme=radical&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats"/>
-  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs?username=HELLSNAKES&layout=compact&theme=radical&hide=batchfile,php,shell" alt="Top Languages"/>
+  <img width="32%" src="https://github-readme-stats-fast.vercel.app/api?username=HELLSNAKES&theme=radical&include_all_commits=true&show_icons=true" alt="GitHub Stats"/>
+  <img width="32%" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=HELLSNAKES&layout=compact&theme=radical&hide=batchfile,php,shell" alt="Top Languages"/>
   <img width="32%" src="https://streak-stats.demolab.com?user=HELLSNAKES&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
